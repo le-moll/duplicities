@@ -1,6 +1,6 @@
 # duplicities
 
-use at your own risk;)
+use at your own risk :)
 
 Domaci ukol - hledani duplicitnich souboru
 
